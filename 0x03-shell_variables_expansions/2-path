@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir sort -f /PATH/{..action}
+export PATH=$PATH/:action
